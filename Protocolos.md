@@ -18,3 +18,5 @@ conversaciones humanas.
 Piensa en los estándares de protocolo aceptados comúnmente para el envío de mensajes de
 texto a los amigos. Completa el cuadro con algunas de las reglas que se siguen al enviar
 mensajes de texto a amigos u otras personas. La primera fila contiene un ejemplo.
+
+# Tu protocolo de mensajería de texto
