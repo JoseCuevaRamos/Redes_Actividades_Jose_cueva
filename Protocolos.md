@@ -22,10 +22,11 @@ mensajes de texto a amigos u otras personas. La primera fila contiene un ejemplo
 # Tu protocolo de mensajería de texto
 | Requisitos de protocolo | ¿Que significa esto? | ¿Como se implementa en su protocolo? |
 |----------|----------|----------|
-| Un emisor y unreceptor identificados    | ¿Cómo sabe de quién es el mensajede texto? ¿Cómo sabe la persona enel otro extremo que usted recibió elmensaje? ¿Va dirigido a una personao a un grupo?  | Al enviar un mensaje este se codifica mediante la aplicacion y solo se puede decodificar cuando este llegue al destino   |
-| Un metodod e comunicacion acordado  | ¿Solo enviamos texto? ¿Enviamos y recibimos fotos?¿Y los emoticones y emoji?|  |
-| idioma y gramatica comun | ¿Usamos acrónimos? ¿Es aceptableel argot? ¿Cuál es el idioma maternode los participantes?| se Utilizar al momento de hablar el argot y el  solo alguien que los conoce los puede entender |
-
+| Un emisor y unreceptor identificados    | ¿Cómo sabe de quién es el mensajede texto? ¿Cómo sabe la persona enel otro extremo que usted recibió elmensaje? ¿Va dirigido a una personao a un grupo?  | En mensajería de texto, el emisor yel receptor generalmente seidentifican por el número deteléfono, el nombre de usuario o elapodo. Los mensajes de texto sepueden enviar a un grupopredefinido o a grupos nuevos quese crean según la necesidad.   |
+| Un metodod e comunicacion acordado  | ¿Solo enviamos texto? ¿Enviamos y recibimos fotos?¿Y los emoticones y emoji?|E protocolo encripta no solo el texto sino las imagenes y datos adicionales de manera que solo en el destino se puede leer   |
+| idioma y gramatica comun | ¿Usamos acrónimos? ¿Es aceptableel argot? ¿Cuál es el idioma maternode los participantes?| No seria aceptable el usop de acronimos y el argot ya que los protocolos tienen un estandar segun el idioma |
+|Velocidad y momentode entrega|¿Qué determina con qué velocidadllega el mensaje al destinatario? ¿Conqué velocidad esperamos recibir unarespuesta?|La velocidad lo determina el recorrido del mensaje , el medio (cable coaxial,fibra optica)y los protocolos que acepte el dispositivo de entrada como el dispositivo de salida(ipv4,ipv6,5g,4g)|
+|Requisitos deconfirmación o acusede recibo|¿Cómo sabe que se recibió elmensaje? ¿Cómo sabe que laconversación terminó|Un protocolo que envie un mensaje de confirmacion devuleta al dispositivo que envio el mensaje cuando el mensaje sea desendriptado |
 
 1. Ahora que anotaste los protocolos que usan el enviar y leer mensajes de texto, ¿crees que estos
 protocolos serían los mismos si estuviera escribiendo a amigos que si estuviera escribiendo a
@@ -33,7 +34,7 @@ sus padres o profesores?
 Los protocolos no cambian ya que estos tienen estandares  preestablecidos 
 
 3. ¿Cuáles crees que serían las consecuencias si no hubiera estándares de protocolo acordados
-para los diferentes métodos de comunicación acordados existiria un caos al momento de enviar y recibir los mensajes ya que 
+- Una de las concecuencia de no haber protocolos con estandares seria que existiria un caos al momento de enviar y recibir los mensajes ya que podria genera confuncion al notener un estandar de idioma por otro lado tambien sufriria en el lado de las seguridad ya que sin los estandares existirian brechjas en la seguridad y mayor riesgo a ataques ciberneticos
 
 Si no hubieran protocolos para los diferentes medios de comunicacion se podria generar confucion al moemnto de enviar los mensaje y al momento de decifrarlos ya que no todos serian capaces de entenderlos , o no estarien en un formato mas adecuado
 5. Comparte las reglas de protocolo con tus compañeros de equipo. ¿Hay diferencias entre tus
