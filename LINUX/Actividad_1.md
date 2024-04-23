@@ -8,6 +8,11 @@
 - Window managers usually have a way to launch a terminal from the menu. Look through the list of programs to see if anything looks like a terminal emulator. While there are a number of different terminal emulators, they all do the same thing. They give us access to a shell session. You will probably develop a preference for one, based on the different bells and whistles it provides.
 # Testing the Keyboard
 - OK, let's try some typing. Bring up a terminal window. The first thing we should see is a shell prompt that contains our user name and the name of the machine followed by a dollar sign. Something like this:
--Excellent! Now type some nonsense characters and press the enter key.
--If all went well, we should have gotten an error message complaining that it cannot understand the command:
+  ![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/10c8e1d3-d459-45b8-8a64-b70a88cb4d3b)
+
+- Excellent! Now type some nonsense characters and press the enter key.
+  ![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/574b2789-4cd3-4e3d-99f5-d3c5f4309ff2)
+
+- If all went well, we should have gotten an error message complaining that it cannot understand the command:
+![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/f8e8bfce-d016-464d-a744-0a6c3bb2da83)
 
