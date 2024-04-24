@@ -11,12 +11,14 @@ Those new to the command line will need to pay close attention to this lesson si
 - Since the command line interface cannot provide graphic pictures of the file system structure, we must have a different way of representing it. To do this, think of the file system tree as a maze, and that we are standing in it. At any given moment, we are located in a single directory. Inside that directory, we can see its files and the pathway to its parent directory and the pathways to the subdirectories of the directory in which we are standing.
 
 - The directory we are standing in is called the working directory. To see the name of the working directory, we use the pwd command.
+![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/b85a6bc7-c756-4e8e-b134-602af1add2b9)
 
 
 
 - When we first log on to our Linux system, the working directory is set to our home directory. This is where we put our files. On most systems, the home directory will be called /home/user_name, but it can be anything according to the whims of the system administrator.
 
 - To list the files in the working directory, we use the ls command.
+![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/44846949-7ff7-467d-b1c5-f13ac781ff83)
 
 
 
@@ -30,6 +32,8 @@ Those new to the command line will need to pay close attention to this lesson si
 
 - Let's try this out:
 
+![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/e525b35a-afd5-4d99-9cfb-c161ed86c2e6)
+
 
 
 
@@ -41,9 +45,11 @@ Where an absolute pathname starts from the root directory and leads to its desti
 - The "." notation refers to the working directory itself and the ".." notation refers to the working directory's parent directory. Here is how it works. Let's change the working directory to /usr/bin again:
 
 
+![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/bca0700b-5ee5-4f49-95ee-33348352e057)
 
 
 - O.K., now let's say that we wanted to change the working directory to the parent of /usr/bin which is /usr. We could do that two different ways. First, with an absolute pathname:
+![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/070975be-acc3-47ca-a3ea-3c561876e7db)
 
 - Or, with a relative pathname:
 
@@ -51,5 +57,11 @@ Where an absolute pathname starts from the root directory and leads to its desti
 
 - Likewise, we can change the working directory from /usr to /usr/bin in two different ways. First using an absolute pathname:
 - Or, with a relative pathname:
+
+![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/5b715a9e-5222-44dd-8162-b88bf85ac773)
+
 - Now, there is something important that we must point out here. In most cases, we can omit the "./". It is implied. Typing:
+![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/7768f6c0-f4ec-46ab-9e2b-7128f36928c9)
+
 - would do the same thing. In general, if we do not specify a pathname to something, the working directory will be assumed. There is one important exception to this, but we won't get to that for a while.
+![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/39335e30-7711-40d4-8ed6-607cbf5a330b)
