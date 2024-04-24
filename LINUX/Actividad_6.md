@@ -17,14 +17,30 @@ It is often useful to know exactly which of the four kinds of commands is being 
 
 # type
 The type command is a shell builtin that displays the kind of command the shell will execute, given a particular command name. It works like this:
+
+![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/11c56965-f194-4a20-abef-c5550a72d718)
+
 # which
 Sometimes there is more than one version of an executable program installed on a system. While this is not very common on desktop systems, it's not unusual on large servers. To determine the exact location of a given executable, the which command is used:
+
+![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/2f207ba1-6205-4cb3-884a-235c0dcc43da)
+
 # Getting Command Documentation
 With this knowledge of what a command is, we can now search for the documentation available for each kind of command.
 
 # help
 bash has a built-in help facility available for each of the shell builtins. To use it, type “help” followed by the name of the shell builtin. Optionally, we can add the -m option to change the format of the output. For example:
+![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/0aafe3b1-10a3-48e4-a15b-4c01ab9dd846)
+
+
 # --help
 Many executable programs support a “--help” option that displays a description of the command's supported syntax and options. For example:
+![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/549aa3c7-cae8-4d8e-aafc-2dfce71245f7)
+
+
 # man
 Most executable programs intended for command line use provide a formal piece of documentation called a manual or man page. A special paging program called man is used to view them. It is used like this:
+
+![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/6f9ff010-73ca-4cb4-99a0-3e80223653c5)
+
+
