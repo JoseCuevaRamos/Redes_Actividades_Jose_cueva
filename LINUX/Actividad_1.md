@@ -11,6 +11,8 @@
   ![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/10c8e1d3-d459-45b8-8a64-b70a88cb4d3b)
 
 - Excellent! Now type some nonsense characters and press the enter key.
+
+  
   ![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/574b2789-4cd3-4e3d-99f5-d3c5f4309ff2)
 
 - If all went well, we should have gotten an error message complaining that it cannot understand the command:
