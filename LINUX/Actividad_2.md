@@ -61,6 +61,7 @@ Where an absolute pathname starts from the root directory and leads to its desti
 ![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/5b715a9e-5222-44dd-8162-b88bf85ac773)
 
 - Now, there is something important that we must point out here. In most cases, we can omit the "./". It is implied. Typing:
+  
 ![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/7768f6c0-f4ec-46ab-9e2b-7128f36928c9)
 
 - would do the same thing. In general, if we do not specify a pathname to something, the working directory will be assumed. There is one important exception to this, but we won't get to that for a while.
