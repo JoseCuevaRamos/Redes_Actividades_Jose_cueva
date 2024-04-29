@@ -17,6 +17,15 @@ En este módulo, tomará notas sobre los beneficios de la informática en la nub
 
 1. Imagine que una de tus cuentas de redes sociales ha sido pirateada y todos tus datos han hecho públicos o se los han quedado para pedir una recompensa. ¿Cómo se sentiría? ¿Crees que merece la pena el riesgo de tener todos los servicios en la nube a su alcance?
 
+
+Me sentiria vulnerable si alguna de mis cuentas de redes sociales fuera pirateada .Apesar de la conveniencia de los servicios en linea es necesario valancear estos con medidas efectivas para proteger nuestra privacidad e informacion personal.
+
+
 2. ¿Qué tipo de información ha almacenado en línea? ¿Cuáles son los riesgos de que esa información se vea comprometida o compartida sin su consentimiento? ¿Qué tipo de leyes o reglamentos cree que son necesarios para mantener a salvo su información?
 
+Yo he usado la nube para guardar gran cantidad de informacion, como datos personlaes, detalles financieros.Los riesgos serian el robo de identidad y fraude. Serian utiles leyes mas estrictas sobre la proteccion de datos y que mejores el control de los usuarios sobre sus propios datos.
+
 3. ¿De qué manera Internet le ha hecho la vida más fácil? ¿De qué manera Internet le ha hecho la vida más difícil? ¿Qué es lo que desearía poder hacer en línea, pero la tecnología aún no existe?
+
+
+Internet ha hecho la vida más fácil permitiendo acceso instantáneo a información y comunicación remota, aunque también ha traído complicaciones como la desinformación y la dependencia tecnológica. En el futuro, sería ideal ver el desarrollo de tecnologías que ofrezcan una experiencia de Internet privada y segura
