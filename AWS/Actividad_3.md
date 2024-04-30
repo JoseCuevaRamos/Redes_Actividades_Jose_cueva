@@ -2,6 +2,7 @@
   <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="150">
   <h1 align="center">Módulo 3: consola de AWS</h1>
 </p>
+
 # Descripción del módulo
 
 Este módulo incluye una actividad dirigida por un instructor para presentarle los principales servicios de AWS. A continuación, trabajará en la consola de AWS para practicar la navegación a distintos servicios. Por último, completará una actividad de investigación para conocer cómo se utilizan estos servicios en diferentes industrias.
