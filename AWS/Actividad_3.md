@@ -8,27 +8,27 @@
 Este módulo incluye una actividad dirigida por un instructor para presentarle los principales servicios de AWS. A continuación, trabajará en la consola de AWS para practicar la navegación a distintos servicios. Por último, completará una actividad de investigación para conocer cómo se utilizan estos servicios en diferentes industrias.
 
 # Terminología tecnológica
-- Amazon Simple Storage Service (Amazon S3): Servicio para almacenar datos en la nube
+- **Amazon Simple Storage Service (Amazon S3)**: Servicio para almacenar datos en la nube
 
-- Amazon Elastic Compute Cloud (Amazon EC2):Servicio que ofrece la capacidad de computo escalable.(Alquilar equipo en la nube)
+- **Amazon Elastic Compute Cloud (Amazon EC2)**:Servicio que ofrece la capacidad de computo escalable.(Alquilar equipo en la nube)
 
-- Amazon Elastic Block Store (Amazon EBS):Almacenamiento de las instancias de EC2
+- **Amazon Elastic Block Store (Amazon EBS)**:Almacenamiento de las instancias de EC2
 
-- Amazon Relational Database Service (Amazon RDS): Permite crear y administrar bases de datos relacionales en la nube
+- **Amazon Relational Database Service (Amazon RDS)**: Permite crear y administrar bases de datos relacionales en la nube
 
-- Amazon DynamoDB:Servicio de bases de datos no relacionales de AWS.(key-value)
+- **Amazon DynamoDB**:Servicio de bases de datos no relacionales de AWS.(key-value)
 
-- AWS Lambda:Permite ejecutar codigo sin la necesidad de aprovisionar o administrar servidores.
+- **AWS Lambda**:Permite ejecutar codigo sin la necesidad de aprovisionar o administrar servidores.
 
-- Amazon Virtual Private Cloud (Amazon VPC):Servicio que proporciona una red virtual dedicada a su cuenta AWS.(sirve para proteger los datos y administrar quien puede acceder a la red )
+- **Amazon Virtual Private Cloud (Amazon VPC)**:Servicio que proporciona una red virtual dedicada a su cuenta AWS.(sirve para proteger los datos y administrar quien puede acceder a la red )
   
-- AWS Identity and Access Management (IAM): Implica el control de los usuarios que necesiten acceso a recursos informaticos.
+- **AWS Identity and Access Management (IAM)**: Implica el control de los usuarios que necesiten acceso a recursos informaticos.
 
--AWS CloudTrail:Monitorea todas las acciones que se realizan en su cuenta AWS
+- **AWS CloudTrail**:Monitorea todas las acciones que se realizan en su cuenta AWS
 
--Amazon CloudWatch:Servicio para supervisar y monitorizar los recursos de AWS y aplicaciones que ejecuta AWS
+- **Amazon CloudWatch**:Servicio para supervisar y monitorizar los recursos de AWS y aplicaciones que ejecuta AWS
 
--Amazon Redshift:Servicio de almacenamiento de dato en gran escala y de facil acceso.
+- **Amazon Redshift**:Servicio de almacenamiento de dato en gran escala y de facil acceso.
 
 Preguntas
 
