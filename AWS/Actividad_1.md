@@ -8,10 +8,10 @@
 En este módulo, tomará notas sobre los beneficios de la informática en la nube y los servicios ofrecidos por los proveedores de servicios en la nube. Hablaremos sobre algunos de los impactos de la informática en la nube.
 
 # Terminología técnica
-- Informatica en la nube:La entrega bajo demanda de potencia de computo. bases de datos , almacenamiento, recursos de TI a traves de la red
-- Amazon Web Services(AWS): Plataforma que proporciona una amplia gama de servicios de informatica en la nube.
-- Almacenamiento en nube: Guardar datos mediante un proveedor de servicios en la nube .
-- Servidor:Equipo diselado para procesar peticiones y entregar datos a otro equipo a traves de internet o de una red local
+- **Informatica en la nube**:La entrega bajo demanda de potencia de computo. bases de datos , almacenamiento, recursos de TI a traves de la red
+- **Amazon Web Services(AWS)**: Plataforma que proporciona una amplia gama de servicios de informatica en la nube.
+- **Almacenamiento en nube**: Guardar datos mediante un proveedor de servicios en la nube .
+- **Servidor**:Equipo diselado para procesar peticiones y entregar datos a otro equipo a traves de internet o de una red local
 
 # Preguntas
 
