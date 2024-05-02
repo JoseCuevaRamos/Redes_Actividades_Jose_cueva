@@ -7,13 +7,13 @@
 Este módulo consistirá en la toma de notas y la investigación. También dibujará diagramas de la infraestructura global de AWS. Encontrará ejemplos del mundo real de cada tipo de servicio de informática en la nube.
 
 ## Terminología tecnológica
-- Zonas de disponibilidad: Uno o varios centros de datos que albergan muchos servidores.
-- Ubicacion de borde:Sitio en el que se pueden almacenar datos para obtener una menor latencia
-- infrastructura como servicio(IaaS):Modelo que utiliza maquinas virtuales y servidores para que los clientes alojen una amplia gama de aplicaciones y para proporcionar servicios IT.Ejemplos: Amazon Elastic Compute Cloud (Amazon EC2), Rackspace, Google Compute Engine
-- Latencia:Tiempo en que se comienza la trasferencia de datos desde que se solicita.
-- Plataforma como servicio(PaaS): Modelo  que proporciona uan plataforma virtual para que los clientes creen software personalizado  o despleguen aplicaciones.Ejemplos: AWS Elastic Beanstalk, Microsoft Azure, SaaS de Google App Engine
-- Region:Area en la que se almacena los datos.
-- Software como servicio(SaaS): Modelo que proporciona aplicaciones que utilizan internet gestionadas por un tercero.Ejemplos: Dropbox, Slack, Spotify, YouTube, Microsoft Office 365, Gmail
+- **Zonas de disponibilidad**: Uno o varios centros de datos que albergan muchos servidores.
+- **Ubicacion de borde**:Sitio en el que se pueden almacenar datos para obtener una menor latencia
+- **infrastructura como servicio(IaaS)**:Modelo que utiliza maquinas virtuales y servidores para que los clientes alojen una amplia gama de aplicaciones y para proporcionar servicios IT.Ejemplos: Amazon Elastic Compute Cloud (Amazon EC2), Rackspace, Google Compute Engine
+- **Latencia**:Tiempo en que se comienza la trasferencia de datos desde que se solicita.
+- **Plataforma como servicio(PaaS)**: Modelo  que proporciona uan plataforma virtual para que los clientes creen software personalizado  o despleguen aplicaciones.Ejemplos: AWS Elastic Beanstalk, Microsoft Azure, SaaS de Google App Engine
+- **Region**:Area en la que se almacena los datos.
+- **Software como servicio(SaaS)**: Modelo que proporciona aplicaciones que utilizan internet gestionadas por un tercero.Ejemplos: Dropbox, Slack, Spotify, YouTube, Microsoft Office 365, Gmail
 ## Preguntas de enfoque
 
 1. ¿Cómo obtiene su equipo información de Internet? Cuando abre un sitio web, ¿de dónde viene el sitio web? ¿Quién proporciona los datos? Utilice lo que ha aprendido sobre informática y informática en la nube en su respuesta.
