@@ -14,3 +14,4 @@ Examinará las ventajas y características de Amazon EBS. A continuación, anali
 - **Unidad de estado solido(SSD)**:Almacenamiento muy rapido que utiliza memoria flash en lugar de disco giratorio
 
 
+
