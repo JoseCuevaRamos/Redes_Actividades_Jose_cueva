@@ -1,4 +1,4 @@
-# actividad 11
+# Actividad 11
 
 ![alt text](image.png)
 ![alt text](image-1.png)
