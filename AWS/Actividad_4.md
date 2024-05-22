@@ -9,17 +9,17 @@ Las actividades de este módulo incluyen actividades prácticas donde creará un
 
 
 # Terminologia
-- Amazon Elastic Compute Cloud(Amazon EC2):Servicio que ofrece capacidad informatica escalable en la nube.Alquilar una pc ne la nube
-- Amazon Simple Storage Service (Amazon S3):Servicion que almacena datos en la nube
-- Sistema de nombres de dominio (DNS): Sistema de nomenlatura para computadoras , dispositivos y recursos conectados a una red
-- Bucket de Amazon Simple Storage Service (Amazon S3):Un contenedor de objetos en amazon S3
-- Política:Objeto de AWS que cuando se asocia a una identidad o recurso define sus permisos.Se evaluan cuando se realiza una solicitud
-- Nombre de dominio:Etiqueta que identifica una red de computadoras bajo control centralizado
-- Amazon Route 53:Servicio web DNS de AWS
-- Nube privada virtual (VPC):red vitual dedicada a su cuenta AWS.Esta infraestructra esta aislada de forma logica de otras redes virtuales de la nube de AWS.Util para proteger datos y administrar permisos de acceso
-- Notación de objetos JavaScript (JSON):Sintaxis para almacenar datos
-- Sitio web dinámico:Sitio web que cambia segun la interacciones del usuario 
-- Sitio web estatico:Un sitio web que no cambia segun las interaccioones del usuario
+- **Amazon Elastic Compute Cloud(Amazon EC2)**:Servicio que ofrece capacidad informatica escalable en la nube.Alquilar una pc ne la nube
+- **Amazon Simple Storage Service (Amazon S3)**:Servicion que almacena datos en la nube
+- **Sistema de nombres de dominio (DNS)**: Sistema de nomenlatura para computadoras , dispositivos y recursos conectados a una red
+- **Bucket de Amazon Simple Storage Service (Amazon S3)**:Un contenedor de objetos en amazon S3
+- **Política**:Objeto de AWS que cuando se asocia a una identidad o recurso define sus permisos.Se evaluan cuando se realiza una solicitud
+- **Nombre de dominio**:Etiqueta que identifica una red de computadoras bajo control centralizado
+- **Amazon Route 53**:Servicio web DNS de AWS
+- **Nube privada virtual (VPC)**:red vitual dedicada a su cuenta AWS.Esta infraestructra esta aislada de forma logica de otras redes virtuales de la nube de AWS.Util para proteger datos y administrar permisos de acceso
+- **Notación de objetos JavaScript (JSON)**:Sintaxis para almacenar datos
+- **Sitio web dinámico**:Sitio web que cambia segun la interacciones del usuario 
+- **Sitio web estatico**:Un sitio web que no cambia segun las interaccioones del usuario
 
 # Laboratorio 1
 
