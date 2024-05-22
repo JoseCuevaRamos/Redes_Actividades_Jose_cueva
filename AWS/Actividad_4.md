@@ -42,5 +42,14 @@ Las actividades de este módulo incluyen actividades prácticas donde creará un
 
 ![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/a1d34020-7448-47fb-a316-ab1292c06a64)
 
+# Conceptos del laboratorio :
+
+## public adress
+A public address means that the instance can be reached from the internet. Each instance that receives a public IP address is also given an external DNS hostname; for example, ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com. AWS resolves an external DNS hostname to the public IP address of the instance when communication comes from outside its VPC. When communication comes from inside its VPC, the DNS hostname is resolved to the private IPv4 address.
+
+## vockey 
+
+The vockey key pair you selected will allow you to connect to this instance via SSH after it has launched. Although you will not need to do that in this lab, it is still required to identify an existing key pair, or create a new one, when you launch an instance.
+
 
 
