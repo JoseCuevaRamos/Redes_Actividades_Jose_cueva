@@ -51,5 +51,5 @@ A public address means that the instance can be reached from the internet. Each 
 
 The vockey key pair you selected will allow you to connect to this instance via SSH after it has launched. Although you will not need to do that in this lab, it is still required to identify an existing key pair, or create a new one, when you launch an instance.
 
-
-
+- Listas de control de acceso: ACL(habilitadas y no habilitadas)
+- punto de enlace
