@@ -1,6 +1,6 @@
 <p align="left">
   <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="150">
-  <h1 align="center">Módulo 1: Infraestructura global</h1>
+  <h1 align="center">Módulo 10: Bases de datos</h1>
 </p>
 
 ![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/cbb57d4f-aa6f-40be-9a49-d29224caa21c)
