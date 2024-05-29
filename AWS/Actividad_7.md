@@ -1,8 +1,17 @@
+<p align="left">
+  <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="150">
+  <h1 align="center">Módulo 7: Seguridad I </h1>
+</p>
+
+<h2>Entrar en el IAM</h2>
+
 
 
 
 
 ![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/abd424d8-fd74-4605-8ef4-9b3ee683f925)
+<h2>Permisos</h2>
+
 ![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/629a0719-0c21-456d-ad8f-f93d2e3f472b)
 
 ![image](https://github.com/JoseCuevaRamos/Redes_Actividades_Jose_cueva/assets/150297438/5c235dad-bd31-4e04-9aab-c1763357e297)
